@@ -31,8 +31,9 @@ O *pipeline* de dados foi construído com `torchvision.transforms` para padroniz
 
 ## Próximos Passos
 - [x] Coleta e estruturação do Dataset.
-- [x] Pipeline de pré-processamento (Transforms & DataLoaders).
-- [x] Construção da arquitetura da CNN (Baseline vs. Transfer Learning com EfficientNet).
-- [ ] Desenvolvimento do Loop de Treinamento (Otimizadores e Funções de Perda).
-- [ ] Validação gráfica (Acurácia vs. Loss) para combate ao Overfitting.
-- [ ] Script de inferência isolado executando os pesos do melhor modelo salvo.
+- [x] Pipeline de pré-processamento.
+- [x] Construção da arquitetura da CNN.
+- [x] Desenvolvimento do Loop de Treinamento.
+- [x] Validação gráfica (Acurácia vs. Loss).
+- [ ] Teste de uma segunda versão usando tecnicas para criar dados sinteticos que iram aumentar e diversificar meu conjunto.
+- [ ] Análise comparativa dos dois modelos e comparar seus desempenho.S
